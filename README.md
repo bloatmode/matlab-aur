@@ -37,6 +37,7 @@ Follow the steps;
 
 * Go to [License center](https://www.mathworks.com/licensecenter) on mathworks
 * On install and activate tab; select (or create) an appropriate license
+    * If no license is listed because you're using your organization's license and this is your first time installing MATLAB, click the link for manual activation. Insert the MAC address of a network card on your PC in the Host ID field, as for the username, it'll have to be the one of the account (on your Arch installation) that will be using MATLAB.
 * Navigate to download the license file and the file installation key
 * Download the **license file** and put the file in the repository
 * Copy and paste the **file installation key** in a plain text file
